@@ -50,3 +50,7 @@ footer{
     color: red;
     border: 2px dashed black;
 }
+li{
+    color: white;
+    list-style-type: none;
+}
